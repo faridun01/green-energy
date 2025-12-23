@@ -81,10 +81,10 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">{t("phone")}</h3>
                     <a
-                      href="tel:+992987090605"
+                      href="tel:+992077899998"
                       className="text-sm text-muted-foreground hover:text-primary transition-colors"
                     >
-                      +992 98 709 06 05
+                      +992 077 899 998
                     </a>
                   </div>
                 </div>
@@ -115,7 +115,7 @@ export function ContactSection() {
                 <h3 className="font-semibold text-foreground mb-4">{t("followUs")}</h3>
                 <div className="flex flex-col sm:flex-row gap-3">
                   <a
-                    href="https://wa.me/992987090605"
+                    href="https://wa.me/+992077899998"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-[#25D366]/10 hover:bg-[#25D366]/20 text-[#25D366] transition-colors"
@@ -124,7 +124,7 @@ export function ContactSection() {
                     <span className="text-sm font-medium">WhatsApp</span>
                   </a>
                   <a
-                    href="https://t.me/yourusername"
+                    href="https://t.me/@faridun_rahim"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-[#0088cc]/10 hover:bg-[#0088cc]/20 text-[#0088cc] transition-colors"
