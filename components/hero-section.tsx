@@ -61,7 +61,7 @@ export function HeroSection() {
                 <ArrowRight className="ml-2 w-4 h-4" />
               </Button>
               <Button size="lg" variant="outline" className="w-full sm:w-auto bg-transparent" asChild>
-                <a href="tel:+992987090605">
+                <a href="tel:+992077899998">
                   <Phone className="mr-2 w-4 h-4" />
                   {t("callNow")}
                 </a>

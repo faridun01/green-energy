@@ -115,7 +115,7 @@ export function ContactSection() {
                 <h3 className="font-semibold text-foreground mb-4">{t("followUs")}</h3>
                 <div className="flex flex-col sm:flex-row gap-3">
                   <a
-                    href="https://wa.me/+992077899998"
+                    href="https://wa.me/992077899998"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-[#25D366]/10 hover:bg-[#25D366]/20 text-[#25D366] transition-colors"
@@ -124,7 +124,7 @@ export function ContactSection() {
                     <span className="text-sm font-medium">WhatsApp</span>
                   </a>
                   <a
-                    href="https://t.me/@faridun_rahim"
+                    href="https://t.me/faridun_rahim"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-[#0088cc]/10 hover:bg-[#0088cc]/20 text-[#0088cc] transition-colors"
